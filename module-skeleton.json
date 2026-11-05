@@ -1,0 +1,25 @@
+{
+  "repository": "module-identity-core-nuxt",
+  "capabilityKey": "liberusoftware/identity-core",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-identity-core-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/boilerplate/nextjs/identity-core.md",
+  "presentationPlan": "projects/boilerplate/nuxt/identity-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
